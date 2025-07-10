@@ -284,8 +284,6 @@ If you have any questions or need support:
 
 ---
 
-**Made with ❤️ by the PitchPerfect AI Team**
-
 [![GitHub stars](https://img.shields.io/github/stars/Ahsan-Toufiq/PitchPerfect-AI?style=social)](https://github.com/Ahsan-Toufiq/PitchPerfect-AI)
 [![GitHub forks](https://img.shields.io/github/forks/Ahsan-Toufiq/PitchPerfect-AI?style=social)](https://github.com/Ahsan-Toufiq/PitchPerfect-AI)
 [![GitHub issues](https://img.shields.io/github/issues/Ahsan-Toufiq/PitchPerfect-AI)](https://github.com/Ahsan-Toufiq/PitchPerfect-AI/issues) 
